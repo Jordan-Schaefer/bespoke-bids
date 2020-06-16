@@ -1,0 +1,21 @@
+.background-color {
+  background-color: #F1EFEF;
+}
+
+.head {
+  background-color: #83C664;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-light {
+  color: #EFEDED;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.text-med {
+  color: #555454;
+  font-family: 'Times New Roman', Times, serif;
+}
